@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "236128306061",
+    "firebase_url": "https://teship-c3909-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "teship-c3909",
+    "storage_bucket": "teship-c3909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236128306061:android:a69efa0c3c975942e8b3c4",
+        "android_client_info": {
+          "package_name": "com.vibelabs.teship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236128306061-d99eoegko6h2ml3lovnfr5ctopoj9euh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vibelabs.teship",
+            "certificate_hash": "32155060118078874cac33e62955e1d4494ba69a"
+          }
+        },
+        {
+          "client_id": "236128306061-vjm64sde91a70iqkj7jiib06en9nd153.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vibelabs.teship",
+            "certificate_hash": "f81bd2d14d4862b2daf40fa08ca621695840facc"
+          }
+        },
+        {
+          "client_id": "236128306061-vc61qesukiv0cvahgock9h6m6rm32mps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATQfpI-6-rrfSJTj51YEB99eB7OugLlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236128306061-vc61qesukiv0cvahgock9h6m6rm32mps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236128306061-pnivd952a0maoccil8b1b3a7crboq8mq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vibelabs.teship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

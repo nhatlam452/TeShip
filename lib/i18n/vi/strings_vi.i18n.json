@@ -1,0 +1,190 @@
+{
+  "hello": "Chào $name",
+  "save": "Lưu",
+  "login": {
+    "success": "Đăng nhập thành công",
+    "fail": "Đăng nhập thất bại",
+    "remember_pass": "Ghi nhớ mật khẩu",
+    "text_rembember_pass": "Ghi nhớ mật khẩu",
+    "forgot_pass": "Quên mật khẩu",
+    "text_login": "Đăng nhập"
+  },
+  "navigation": {
+    "bottom": {
+      "home": "Home",
+      "create_order": "Tạo đơn",
+      "order": "Đơn hàng",
+      "report": "Báo cáo",
+      "setting": "Cài đặt"
+    }
+  },
+  "test": {
+    "succeded": "Test successfull.",
+    "failed": "Test failed."
+  },
+  "form": {
+    "phone": {
+      "label": "Số điện thoại",
+      "hint": "Nhập số điện thoại"
+    },
+    "username": {
+      "label": "Username",
+      "hint": "Vui lòng nhập username"
+    },
+    "password": {
+      "label": "Mật khẩu",
+      "hint": "Nhập mật khẩu"
+    },
+    "full_name": {
+      "label": "Họ và tên",
+      "hint": "Nhập Họ và tên"
+    },
+    "transfer_address": {
+      "label": "Địa chỉ giao hàng",
+      "hint": "Nhập Địa chỉ giao hàng"
+    },
+    "product_name": {
+      "label": "Tên sản phẩm",
+      "hint": "Nhập Tên sản phẩm"
+    },
+    "unit_price": {
+      "label": "Đơn giá",
+      "hint": "Đơn giá"
+    },
+    "delivery_charges": {
+      "label": "Phí giao hàng",
+      "hint": "Nhập Phí giao hàng"
+    },
+    "reason_ship_fail": {
+      "label": "",
+      "hint": "Vui lòng nhập lý do"
+    },
+    "forgot_pass_email": {
+      "label": "Email",
+      "hint": "Nhập email đã đăng ký để lấy lại mật khẩu"
+    },
+    "store_name": {
+      "label": "Tên cửa hàng",
+      "hint": "Nhập tên cửa hàng"
+    },
+    "store_adress": {
+      "label": "Địa chỉ",
+      "hint": "Nhập địa chỉ"
+    },
+    "store_code": {
+      "label": "Mã cửa hàng",
+      "hint": "Nhập mã cửa hàng"
+    },
+    "current_pass": {
+      "label": "Mật khẩu hiện tại",
+      "hint": "Nhâp mật khẩu hiện tại"
+    },
+    "new_pass": {
+      "label": "Mật khẩu mới",
+      "hint": "Nhâp mật khẩu mới"
+    },
+    "repeat_pass": {
+      "label": "Nhập lại mật khẩu mới",
+      "hint": "Nhập lại mật khẩu mới"
+    }
+  },
+  "errors": {
+    "form": {
+      "maxLength": "$field không thể nhiều hơn $count ký tự.",
+      "minLength": "$field không thể ít hơn $count ký tự.",
+      "required": "Vui lòng nhập $field",
+      "email": "Địa chỉ Email không hợp lệ.",
+      "pattern": "$field không hợp lệ."
+    },
+    "others": {
+      "no_item_found": "There is no data to show.",
+      "something_went_wrong": "Something went wrong and data couldn't loaded.",
+      "an_unknown_error": "An unknown error happened.",
+      "no_internet_connection": "Internet connectivity is not available.",
+      "server_failure": "Server failure encountered.",
+      "communication_error": "There was an error with our communication with the servers."
+    },
+    "login": {
+      "E_USER_ACCOUNT_NOT_EXISTS": "Vui lòng kiểm tra lại mật khẩu",
+      "E_USER_HAS_BLOCKED": "User đã bị khoá",
+      "E_USER_NOT_EXISTS": "User không tồn tại"
+    }
+  },
+  "file_picker": {
+    "size_warning": "File size cannot be more than $maxSize mb.",
+    "no_permission": "We have no permission to open your gallery."
+  },
+  "no_feature": {
+    "in_progress": "Chức năng đang trong quá trình phát triển"
+  },
+  "dashboard": {
+    "greeting": "Xin chào, $name",
+    "manage_order": "Danh sách cửa hàng",
+    "text_msg_no_any_orders": "Bạn chưa có đơn hàng nào trong hôm nay!"
+  },
+  "create_order" : {
+    "title": "Tạo đơn hàng",
+    "text_information_customer": "Thông tin khách hàng",
+    "text_information_order": "Thông tin đơn hàng",
+    "text_continue": "Tiếp tục",
+    "text_quantity": "Số lượng",
+    "text_price": "Thành tiền:",
+    "text_total_price": "Cộng tiền hàng:",
+    "text_delivery_charges": "Phí giao hàng:",
+    "text_message_create_order": "Bạn chắc chắn muốn tạo đơn hàng này?",
+    "text_create_order_success": "Đơn hàng đã được tạo thành công"
+  },
+  "details_order": {
+    "title": "Chi tiết đơn hàng",
+    "address": "Địa chỉ",
+    "total": "Tổng cộng",
+    "text_order_ship_not_success": "Đơn hàng giao không thành công",
+    "text_order_ship_in_progress": "Đơn hàng đã được xử lý",
+    "text_cancel_order": "Huỷ đơn hàng",
+    "text_reason": "Lý do",
+    "text_message_cancel_order": "Bạn chắc chắn muốn huỷ đơn hàng này?",
+    "text_cancel_order_success": "Huỷ đơn hàng thành công",
+    "text_action_order": "Thao tác đơn hàng",
+    "text_message_update_order": "Bạn chắc chắn muốn cập nhật trạng thái đơn hàng này?",
+    "text_update_order_success": "Cập nhật trạng thái thành công"
+  },
+  "forgot_password": {
+    "title": "Đặt lại mật khẩu",
+    "description": "Vui lòng nhập địa chỉ email đã đăng ký\nvào bên dưới để đặt lại mật khẩu của bạn.",
+    "text_update_password": "Đặt lại mật khẩu",
+    "text_error_email_not_exist": "Địa chỉ emai không tồn tại!",
+    "text_message_check_email": "Vui lòng kiểm tra email để đặt lại mật khẩu.",
+    "text_back_to_main_screen": "Quay về màn hình chính"
+  },
+  "setting": {
+    "text_store_info": "Thông tin tài khoản",
+    "text_change_password": "Thay đổi mật khẩu",
+    "text_logout": "Đăng xuất",
+    "text_version": "Phiên bản: $version",
+    "text_program_by_vibelabs": "Được phát triển bởi VibeLabs",
+    "text_message_update_password": "Bạn có chắc chắn muốn đổi mật khẩu?"
+  },
+  "change_info": {
+    "text_store_name": "Tên cửa hàng",
+    "text_update": "Cập nhật",
+    "text_update_success": "Cập nhật thành công"
+  },
+  "report": {
+    "text_today": "Hôm nay",
+    "text_yesterday": "Hôm qua",
+    "text_seven_day": "7 ngày trước",
+    "text_total_order": "Tổng số đơn hàng:",
+    "text_revenue": "Doanh thu:",
+    "text_total_ship_fee": "Tổng phí giao hàng:",
+    "note": ": Chỉ áp dụng cho đơn được giao thành công"
+  },
+  "order_deliver": {
+    "text_waiting": "Chờ giao",
+    "text_inprogress": "Đang giao",
+    "text_success": "Giao thành công",
+    "text_not_success": "Giao không thành công",
+    "text_piece_delivered": "Giao một phần",
+    "text_piece_delivered_long": "Giao thành công một phần",
+    "text_cancel": "Đã huỷ"
+  }
+}
